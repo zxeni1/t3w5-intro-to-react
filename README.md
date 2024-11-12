@@ -2,4 +2,4 @@
 
 - Tuesday:
     - CRA (Create React App)
-    
+    CRA
